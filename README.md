@@ -2,7 +2,6 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ArianBahrampour)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arian-bahrampour-2776b819a/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dev.arianbahrampour1380@gmail.com)
-[![Talk To Me!](https://img.shields.io/badge/-Talk%20To%20Me-0094F5?style=flat&logo=google-meet&logoColor=white)](mailto:dev.arianbahrampour1380@gmail.com)
 
 #### Languages:
 
