@@ -11,39 +11,38 @@
 #### Languages:
 
 <p>
-  <img src="https://img.shields.io/badge/GO-42c8f5.svg?style=for-the-badge&logo=go&logoColor=42c8f5&labelColor=ffffff" alt="golang">
-  <img src="https://img.shields.io/badge/-TypeScript-323330?style=for-the-badge&logo=Javascript&labelColor=white"/>
-  <img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript">
-  <img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python">
+  <img src="https://img.shields.io/badge/-GoLang-2c3e50?style=for-the-badge&logo=Go&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-JavaScript-2c3e50?style=for-the-badge&logo=Javascript&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Python-2c3e50?style=for-the-badge&logo=Python&labelColor=34495e"/>
 </p>
 
 #### Databases:
 
 <p>
-  <img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=ffffff" alt="mysql">
-  <img src="https://img.shields.io/badge/-MongoDB-2c3e50?style=for-the-badge&logo=MongoDB&labelColor=white"/>
-  <img src="https://img.shields.io/badge/-Redis-2c3e50?style=for-the-badge&logo=Redis&labelColor=white"/>
-  <img src="https://img.shields.io/badge/postgresql-6566ba.svg?style=for-the-badge&logo=postgresql&logoColor=6566ba&labelColor=ffffff" alt="postgresql">
+  <img src="https://img.shields.io/badge/-MySql-2c3e50?style=for-the-badge&logo=Mysql&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-MongoDB-2c3e50?style=for-the-badge&logo=MongoDB&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Redis-2c3e50?style=for-the-badge&logo=Redis&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-2c3e50?style=for-the-badge&logo=PostgreSQL&labelColor=34495e"/>
 </p>
 
 #### Frameworks:
 
 <p>
-  <img src="https://img.shields.io/badge/-React-2c3e50?style=for-the-badge&logo=React&labelColor=white"/>
-  <img src="https://img.shields.io/badge/-ExpressJs-2c3e50?style=for-the-badge&logo=Express&labelColor=white"/>
-  <img src="https://img.shields.io/badge/-Next.JS-2c3e50?style=for-the-badge&logo=Next.js&labelColor=white"/>
+  <img src="https://img.shields.io/badge/-React-2c3e50?style=for-the-badge&logo=React&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-ExpressJs-2c3e50?style=for-the-badge&logo=Express&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Next.JS-2c3e50?style=for-the-badge&logo=Next.js&labelColor=34495e"/>
 </p>
 
 #### Other Technologies:
 
 <p>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&labelColor=white"/>
-  <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git">
-  <img src="https://img.shields.io/badge/-Docker-2c3e50?style=for-the-badge&logo=Docker&labelColor=white"/>
-  <img src="https://img.shields.io/badge/BASH-4a5057.svg?style=for-the-badge&logo=gnu-bash&logoColor=4a5057&labelColor=ffffff" alt="bash">
-  <img src="https://img.shields.io/badge/-Redux-2c3e50?style=for-the-badge&logo=Redux&labelColor=white"/>
-  <img src ="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white">
-  <img src ="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+  <img src="https://img.shields.io/badge/-Linux-2c3e50?style=for-the-badge&logo=Linux&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Git-2c3e50?style=for-the-badge&logo=Git&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Docker-2c3e50?style=for-the-badge&logo=Docker&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Bash-2c3e50?style=for-the-badge&logo=GNU-Bash&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Bash-2c3e50?style=for-the-badge&logo=GNU-Bash&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Redux-2c3e50?style=for-the-badge&logo=Redux&labelColor=34495e"/>
+  <img src="https://img.shields.io/badge/-Jira-2c3e50?style=for-the-badge&logo=Jira&labelColor=34495e"/>
 </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArianBahrampour&show_icons=true&locale=en" alt="ArianBahrampour" /></p>
