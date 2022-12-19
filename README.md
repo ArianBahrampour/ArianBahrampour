@@ -11,19 +11,19 @@
 #### Languages:
 
 <p>
-  <img src="https://img.shields.io/badge/-GoLang-777BB4?style=for-the-badge&logo=Go&labelColor=white"/>
+  <img src="https://img.shields.io/badge/GO-42c8f5.svg?style=for-the-badge&logo=go&logoColor=42c8f5&labelColor=ffffff" alt="golang">
   <img src="https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=Javascript&labelColor=white"/>
-  <img src ="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&labelColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-6566ba.svg?style=for-the-badge&logo=php&logoColor=6566ba&labelColor=ffffff" alt="javascript"
+  <img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python">
 </p>
 
 #### Databases:
 
 <p>
-  <img src="https://img.shields.io/badge/-MySql-00000F?style=for-the-badge&logo=Mysql&labelColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=ffffff" alt="mysql">
   <img src="https://img.shields.io/badge/-MongoDB-2c3e50?style=for-the-badge&logo=MongoDB&labelColor=white"/>
   <img src="https://img.shields.io/badge/-Redis-2c3e50?style=for-the-badge&logo=Redis&labelColor=white"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=PostgreSQL&labelColor=white"/>
+  <img src="https://img.shields.io/badge/postgresql-6566ba.svg?style=for-the-badge&logo=postgresql&logoColor=6566ba&labelColor=ffffff" alt="postgresql">
 </p>
 
 #### Frameworks:
@@ -38,9 +38,9 @@
 
 <p>
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&labelColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-2c3e50?style=for-the-badge&logo=Git&labelColor=white"/>
+  <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git">
   <img src="https://img.shields.io/badge/-Docker-2c3e50?style=for-the-badge&logo=Docker&labelColor=white"/>
-  <img src="https://img.shields.io/badge/-Bash-2c3e50?style=for-the-badge&logo=GNU-Bash&labelColor=white"/>
+  <img src="https://img.shields.io/badge/BASH-4a5057.svg?style=for-the-badge&logo=gnu-bash&logoColor=4a5057&labelColor=ffffff" alt="bash">
   <img src="https://img.shields.io/badge/-Redux-2c3e50?style=for-the-badge&logo=Redux&labelColor=white"/>
   <img src ="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white">
 </p>
