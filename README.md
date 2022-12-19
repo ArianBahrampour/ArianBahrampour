@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/BASH-4a5057.svg?style=for-the-badge&logo=gnu-bash&logoColor=4a5057&labelColor=ffffff" alt="bash">
   <img src="https://img.shields.io/badge/-Redux-2c3e50?style=for-the-badge&logo=Redux&labelColor=white"/>
   <img src ="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+  <img src ="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white">
 </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArianBahrampour&show_icons=true&locale=en" alt="ArianBahrampour" /></p>
