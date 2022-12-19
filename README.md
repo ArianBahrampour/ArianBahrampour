@@ -1,3 +1,9 @@
+### Hi there 👋, I'm Arian Bahrampour
+
+- 🔭 I’m currently working as a **Go lang Developer**
+- 🌱 I’m currently learning **Machine learning**
+- 📫 How to reach me: **dev.arianbahrampour1380@gmail.com**
+
 ![](https://komarev.com/ghpvc/?username=ArianBahrampour&color=0069b4)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ArianBahrampour)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arian-bahrampour-2776b819a/)
@@ -38,4 +44,10 @@
   <img src="https://img.shields.io/badge/-Bash-2c3e50?style=flat&logo=GNU-Bash&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Ubuntu-2c3e50?style=flat&logo=Ubuntu&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Jira-2c3e50?style=flat&logo=Jira&labelColor=34495e"/>
+</p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArianBahrampour&show_icons=true&locale=en" alt="ArianBahrampour" /></p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ArianBahrampour&theme=onedark&margin-w=12&margin-h=10&column=7&no-frame=true" alt="Trophies" />
 </p>
