@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning **Machine learning**
 - 📫 How to reach me: **dev.arianbahrampour1380@gmail.com**
 
-![](https://komarev.com/ghpvc/?username=ArianBahrampour&color=0069b4)
 [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ArianBahrampour)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arian-bahrampour-2776b819a/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dev.arianbahrampour1380@gmail.com)
