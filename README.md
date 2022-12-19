@@ -12,8 +12,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/GO-42c8f5.svg?style=for-the-badge&logo=go&logoColor=42c8f5&labelColor=ffffff" alt="golang">
-  <img src="https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=Javascript&labelColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-6566ba.svg?style=for-the-badge&logo=php&logoColor=6566ba&labelColor=ffffff" alt="javascript"
+  <img src="https://img.shields.io/badge/-TypeScript-323330?style=for-the-badge&logo=Javascript&labelColor=white"/>
+  <img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript">
   <img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python">
 </p>
 
