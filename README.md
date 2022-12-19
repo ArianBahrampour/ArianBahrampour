@@ -47,7 +47,3 @@
 </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArianBahrampour&show_icons=true&locale=en" alt="ArianBahrampour" /></p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ArianBahrampour&theme=onedark&margin-w=12&margin-h=10&column=7&no-frame=true" alt="Trophies" />
-</p>
