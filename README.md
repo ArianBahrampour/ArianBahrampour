@@ -13,6 +13,7 @@
 <p>
   <img src="https://img.shields.io/badge/-GoLang-2c3e50?style=for-the-badge&logo=Go&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-JavaScript-2c3e50?style=for-the-badge&logo=Javascript&labelColor=34495e"/>
+  <img src ="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/-Python-2c3e50?style=for-the-badge&logo=Python&labelColor=34495e"/>
 </p>
 
@@ -40,9 +41,8 @@
   <img src="https://img.shields.io/badge/-Git-2c3e50?style=for-the-badge&logo=Git&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Docker-2c3e50?style=for-the-badge&logo=Docker&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Bash-2c3e50?style=for-the-badge&logo=GNU-Bash&labelColor=34495e"/>
-  <img src="https://img.shields.io/badge/-Bash-2c3e50?style=for-the-badge&logo=GNU-Bash&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Redux-2c3e50?style=for-the-badge&logo=Redux&labelColor=34495e"/>
-  <img src="https://img.shields.io/badge/-Jira-2c3e50?style=for-the-badge&logo=Jira&labelColor=34495e"/>
+  <img src ="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white">
 </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArianBahrampour&show_icons=true&locale=en" alt="ArianBahrampour" /></p>
