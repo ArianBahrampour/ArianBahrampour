@@ -45,4 +45,4 @@
   <img src="https://img.shields.io/badge/-Jira-2c3e50?style=for-the-badge&logo=Jira&labelColor=34495e"/>
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArianBahrampour&show_icons=true&locale=en" alt="ArianBahrampour" /></p>
+### <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArianBahrampour&show_icons=true&locale=en" alt="ArianBahrampour" /></p> ###
